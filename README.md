@@ -3,4 +3,4 @@ This repository acts as a guide to Abyss Coders, it contains information about h
 
 # License 
 
-DBAD
+[DBAD](./LICENSE.md)
